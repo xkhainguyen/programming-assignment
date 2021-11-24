@@ -1,0 +1,3 @@
+﻿  Source.c
+c:\users\nxk12\source\repos\project3\b2\source.c(3): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  B2.vcxproj -> C:\Users\nxk12\source\repos\Project3\Debug\B2.exe
